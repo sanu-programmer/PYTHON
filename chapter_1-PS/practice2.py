@@ -1,6 +1,6 @@
 import pyttsx3
 engine = pyttsx3.init()
-engine.say("Hello Shivam ,Shivam,Shivam What are you Doing , Where are You From , What is your favourite subject")
+engine.say("Hello Sanu , What are you Doing , Where are You From , What is your favourite subject")
 engine.runAndWait()
 import pyttsx3
 engine = pyttsx3.init() # object creation
