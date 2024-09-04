@@ -1,4 +1,5 @@
-d = {} # Empty dictionary
+d = {} 
+print(type(d))# Empty dictionary
 marks = {
     "Sanu": 100,
     "Shivam": 56,
